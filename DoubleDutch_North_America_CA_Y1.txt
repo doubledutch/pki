@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=California, L=San Francisco, O=DoubleDutch, Inc., OU=Engineering Operations - \xE0\xB2\xA0_\xE0\xB2\xA0, CN=DoubleDutch Root Certificate Authority X1
+        Validity
+            Not Before: Oct 26 02:01:57 2016 GMT
+            Not After : Oct 24 02:01:56 2026 GMT
+        Subject: C=US, ST=California, L=San Francisco, O=DoubleDutch, Inc., OU=Engineering Operations, CN=DoubleDutch North America CA Y1
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:ca:51:d7:14:e0:59:9f:51:a4:ef:55:8e:d8:cb:
+                    e0:a9:2f:75:3a:5c:d9:05:2c:b8:25:12:44:4f:7b:
+                    bf:30:b8:cc:75:e2:85:6b:f2:fe:b1:d6:2a:73:43:
+                    af:c2:5c:3d:20:0b:5d:f1:2d:c1:79:c1:f7:11:fe:
+                    20:3b:4e:ed:d4:47:0e:b9:7d:0e:7e:5a:84:0a:4b:
+                    50:1e:ee:47:a2:24:08:af:62:8d:cc:e2:8f:9e:c1:
+                    cf:5c:06:9e:9a:e4:c2:08:3a:8e:c0:e7:e0:81:f7:
+                    6c:0f:cf:db:5d:0f:db:d6:fc:f6:88:2d:8e:93:93:
+                    fb:0c:10:29:2f:83:37:ff:62:aa:d1:42:70:29:a4:
+                    e5:15:5e:c5:a0:09:bf:6a:36:a2:bd:07:ac:d1:1c:
+                    f4:34:66:95:76:d2:3e:2c:ca:00:73:9e:09:b7:5a:
+                    e7:da:a2:81:d1:3e:e8:7e:fc:40:2d:4f:4c:10:95:
+                    2f:14:ce:fd:a3:15:0c:e0:8d:d1:d5:07:2c:99:a3:
+                    b7:f2:10:07:48:dc:a2:cc:c5:16:19:db:90:3e:bb:
+                    ba:0d:aa:54:65:3a:b9:d0:4e:07:5c:f3:ca:c3:de:
+                    b0:97:89:68:8a:89:b7:d3:8d:6d:a9:57:bd:1b:df:
+                    b1:68:e6:e1:33:44:64:0d:d6:50:f0:b5:8d:82:fc:
+                    e4:9f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:1
+            X509v3 Subject Key Identifier: 
+                67:C2:79:AD:3D:A1:26:B7:91:D5:D4:11:F8:C6:59:1A:A5:FD:21:43
+            X509v3 Authority Key Identifier: 
+                keyid:5D:62:51:24:00:CA:29:10:10:88:29:78:99:6A:A7:03:A3:63:65:C2
+
+    Signature Algorithm: sha256WithRSAEncryption
+        6c:83:da:72:a9:a1:43:82:77:b3:2d:58:af:e1:bb:13:24:eb:
+        ba:4a:a8:b8:67:2e:03:cf:cc:f6:59:43:3b:59:75:7d:1f:87:
+        a3:f3:f9:46:c1:8c:42:aa:66:75:7c:79:81:28:73:23:41:15:
+        ce:4c:0f:0c:85:e0:d5:22:92:ad:e2:1e:fe:28:b1:b2:e3:9a:
+        a3:1d:b7:ad:2f:e6:75:59:8a:8a:0f:81:21:03:6e:6f:f6:ce:
+        0c:28:4f:46:5d:86:fc:97:41:68:09:5b:e0:10:b2:ad:ad:37:
+        bc:f4:d5:e5:65:f7:1b:c1:85:5b:5e:d7:9b:25:41:9b:87:0f:
+        56:27:44:32:a7:37:0d:48:2a:4d:cd:fb:54:80:6f:97:af:44:
+        46:1c:65:94:46:bd:58:22:26:6c:a7:b6:fc:f2:2b:e0:13:b1:
+        5c:f9:12:cb:0b:eb:79:84:e4:9a:49:9c:b2:a1:b0:fa:23:61:
+        57:26:4c:72:7f:41:8b:de:51:94:ca:d3:6c:df:12:6a:da:2d:
+        84:81:f4:53:cb:4a:84:28:4a:5f:0d:24:db:ba:c6:42:17:ae:
+        3f:35:3b:05:7a:f9:75:13:10:f5:53:83:40:64:be:04:01:73:
+        b3:5a:29:45:d7:0a:9d:50:56:9b:3a:ad:80:f7:46:b5:39:f5:
+        cd:4f:19:70
+-----BEGIN CERTIFICATE-----
+MIIEWjCCA0KgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBtTELMAkGA1UEBhMCVVMx
+EzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28xGjAY
+BgNVBAoTEURvdWJsZUR1dGNoLCBJbmMuMSkwJwYDVQQLDCBFbmdpbmVlcmluZyBP
+cGVyYXRpb25zIC0g4LKgX+CyoDEyMDAGA1UEAxMpRG91YmxlRHV0Y2ggUm9vdCBD
+ZXJ0aWZpY2F0ZSBBdXRob3JpdHkgWDEwHhcNMTYxMDI2MDIwMTU3WhcNMjYxMDI0
+MDIwMTU2WjCBoTELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAU
+BgNVBAcTDVNhbiBGcmFuY2lzY28xGjAYBgNVBAoTEURvdWJsZUR1dGNoLCBJbmMu
+MR8wHQYDVQQLExZFbmdpbmVlcmluZyBPcGVyYXRpb25zMSgwJgYDVQQDEx9Eb3Vi
+bGVEdXRjaCBOb3J0aCBBbWVyaWNhIENBIFkxMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAylHXFOBZn1Gk71WO2MvgqS91OlzZBSy4JRJET3u/MLjMdeKF
+a/L+sdYqc0Ovwlw9IAtd8S3BecH3Ef4gO07t1EcOuX0OflqECktQHu5HoiQIr2KN
+zOKPnsHPXAaemuTCCDqOwOfggfdsD8/bXQ/b1vz2iC2Ok5P7DBApL4M3/2Kq0UJw
+KaTlFV7FoAm/ajaivQes0Rz0NGaVdtI+LMoAc54Jt1rn2qKB0T7ofvxALU9MEJUv
+FM79oxUM4I3R1QcsmaO38hAHSNyizMUWGduQPru6DapUZTq50E4HXPPKw96wl4lo
+iom3041tqVe9G9+xaObhM0RkDdZQ8LWNgvzknwIDAQABo4GGMIGDMA4GA1UdDwEB
+/wQEAwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwEgYDVR0TAQH/
+BAgwBgEB/wIBATAdBgNVHQ4EFgQUZ8J5rT2hJreR1dQR+MZZGqX9IUMwHwYDVR0j
+BBgwFoAUXWJRJADKKRAQiCl4mWqnA6NjZcIwDQYJKoZIhvcNAQELBQADggEBAGyD
+2nKpoUOCd7MtWK/huxMk67pKqLhnLgPPzPZZQztZdX0fh6Pz+UbBjEKqZnV8eYEo
+cyNBFc5MDwyF4NUikq3iHv4osbLjmqMdt60v5nVZiooPgSEDbm/2zgwoT0ZdhvyX
+QWgJW+AQsq2tN7z01eVl9xvBhVte15slQZuHD1YnRDKnNw1IKk3N+1SAb5evREYc
+ZZRGvVgiJmyntvzyK+ATsVz5EssL63mE5JpJnLKhsPojYVcmTHJ/QYveUZTK02zf
+EmraLYSB9FPLSoQoSl8NJNu6xkIXrj81OwV6+XUTEPVTg0BkvgQBc7NaKUXXCp1Q
+Vps6rYD3RrU59c1PGXA=
+-----END CERTIFICATE-----
